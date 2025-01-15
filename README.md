@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Abd3lfat4h
-- 👀 I’m interested in BLockchain Security, Penetration Testing, and Red Teaming.
+- 👀 I’m interested in Blockchain Security, Penetration Testing, and Red Teaming.
 - 📫 How to reach me: abd3lfattah@yahoo.com
